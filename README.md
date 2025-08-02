@@ -1,34 +1,40 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Kasargod Slang Translator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Byte Builders
+
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhishek Nair J - [College]
+- Member 2: Abhinand Laji - [College]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A web app that translates standard Malayalam text into Kasargod's unique slang, featuring a simple UI with Tailwind CSS styling and speech-to-text support via the Web Speech API. Users can input text or speak to translate phrases, with optional text-to-speech output (requires ElevenLabs API key). Built for a hackathon, it showcases local dialect conversion with a focus on usability and cultural relevance.Features:Translates standard Malayalam to Kasargod slang using a predefined dictionary.
+Speech-to-text input (Chrome/Edge compatible).
+Responsive design with animated background.
+Optional PWA support for offline use.
+
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The difficulty of understanding normal malayalam slang when compared with kasargod slang.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Our app :)
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- javascript,HTML,CSS
+- tailwindCSS
+  
+  
 
 For Hardware:
 - [List main components]
@@ -36,7 +42,9 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+git clone [repository URL]
+cd [project-folder-name]
+npm i
 # Installation
 [commands]
 
@@ -47,15 +55,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+https://drive.google.com/file/d/1HvT1BHLgcDeLlXpj6IpkduxbNmlrn-3H/view?usp=drive_link -- Screenshot 1 
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1SuE-OIza4rYxDd0dFElyaK_MC7PvKQYW/view?usp=drive_link-- Screenshot 2
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/file/d/1uJRH-xG-A21NI6eiMOQO3Y2iBUMqrbzV/view?usp=drive_link --Screenshot 3
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
@@ -81,16 +90,18 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1gxsDjlmdqdfTuPJ-MN-maLcr6BUN32E7/view?usp=sharing
+
+The Proccess of how we translate the language by giving input and then receiving the outputgi
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abhishek Nair J:Frontend 
+- Abhinand Laji: Backend
+
+- Website Link--https://abhinandlaji.github.io/kasargod-translator/
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
